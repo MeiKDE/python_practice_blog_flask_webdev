@@ -40,5 +40,3 @@ flask-blog/
 ├── main.py                # Main application code
 ├── requirements.txt       # Dependencies
 └── README.md              # Project documentation
-
-
